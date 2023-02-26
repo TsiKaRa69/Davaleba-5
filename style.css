@@ -90,3 +90,28 @@ h3{
   color: #1F6519;
   font-size: 32px;
 }
+/*THE END!*/
+footer{
+  width: 1440px;
+  margin: auto;
+  padding: 76.96px 118px 81px 109.62px;
+    background-color: #1F6519;
+}
+.footer_text1,.Footer_text2{
+  display: inline-block;}
+  .footer_text1{
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #F4F4F1;
+  }
+  .Footer_text2{
+    margin-left: 617.53px;
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+  
+  }
