@@ -1,0 +1,49 @@
+/*Header Starts*/
+header {
+  width: 1440px;
+  margin: auto;
+  background: #F5F5F5;
+  padding: 40px 0px 100px 0px;
+}
+
+.Header_logo {
+  vertical-align: middle;
+  margin-left: 69px;
+  margin-right: 312px;
+}
+
+nav {
+  display: inline-block;
+  vertical-align: middle;
+
+  margin-left: 312px;
+  margin: auto;
+
+}
+
+li {
+  display: inline-block;
+  font-size: 32px;
+  vertical-align: middle;
+  font-family: 'Nerko One';
+}
+
+.shop {
+  margin: 83px;
+
+}
+
+.about {
+  margin-right: 80px;
+}
+
+.blog {
+
+  color: #FA1A35;
+}
+
+.shop,
+.contact,
+.about {
+  color: #0F5009
+}
